@@ -8,10 +8,10 @@
 - when you finish save and push your work 
 - submit the repo link 
 
-[home page](home.png)
+[home page](images/home.png)
 
-[products page](product.png)
+[products page](images/product.png)
 
-[company page](company.png)
+[company page](images/company.png)
 
-[more page](more.png)
+[more page](images/more.png)
